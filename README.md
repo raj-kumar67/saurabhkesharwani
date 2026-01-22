@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 **Backend:** Java, Spring Boot, Microservices, JPA, Hibernate  
-**Frontend:** React, JavaScript  
+**Frontend:** React, Angula,r JavaScript  
 **Database:** MySQL, PostgreSQL  
 **Tools:** Git, Docker, Maven, Jenkins, AWS  
 **Testing:** JUnit, Mockito  
