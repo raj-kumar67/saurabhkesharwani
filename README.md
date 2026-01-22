@@ -44,5 +44,5 @@ High throughput transaction processing system (1000 TPS)
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/saurabhkesharwani
 - Email: saurabhkesharwani566@gmail.com
