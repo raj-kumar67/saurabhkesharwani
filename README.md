@@ -35,10 +35,6 @@ High throughput transaction processing system (1000 TPS)
 - Dockerized services
 - CI/CD pipeline
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=saurabhkesharwani&show_icons=true)
 
 ---
 
