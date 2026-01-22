@@ -1,4 +1,3 @@
-# saurabhkesharwani
 # Hi 👋 I'm Saurabh Kesharwani
 
 🚀 Java Full Stack Developer | Spring Boot | Microservices | React | Angular | AWS  
